@@ -1,0 +1,20 @@
+Tekst HTML
+
+- <h1> – <h6> nagłówki
+- <p> paragraf, akapit
+- <br> nowa linia
+- &nbsp; znak specjalny spacji niełamliwej
+- <hr> pozioma linia oddzielająca
+
+
+- <ul> unordered list (lista nieuporządkowana)
+- <ol> ordered list (lista uporządkowana)
+- <dl> definition list (lista definicyjna)
+
+article
+aside
+footer
+header
+main
+nav
+section
